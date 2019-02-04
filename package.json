@@ -1,0 +1,11 @@
+{
+  "name": "GBOS-js",
+  "version": "1.0.0",
+  "description": "Generalized Best Order Sort algorithm for non-dominated sorting",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "lpn",
+  "license": "MIT"
+}
